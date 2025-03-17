@@ -1,0 +1,9 @@
+fastapi==0.115.0  # Latest as of early 2025, adjust if newer
+uvicorn==0.30.6   # Latest as of early 2025
+psycopg2==2.9.9
+pydantic[email]==1.10.13  # Stick with v1 for now
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.1
+python-multipart==0.0.9
+SQLAlchemy==2.0.35  # Latest as of early 2025
