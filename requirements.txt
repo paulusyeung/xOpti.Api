@@ -7,3 +7,4 @@ passlib[bcrypt]==1.7.4
 python-dotenv==1.0.1
 python-multipart==0.0.9
 SQLAlchemy==2.0.35  # Latest as of early 2025
+fastapi-crudrouter==0.8.6
