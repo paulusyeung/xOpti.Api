@@ -1,0 +1,1 @@
+`cities` is no longer in use, I keep it as an endpoint example.
